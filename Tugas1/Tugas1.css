@@ -1,0 +1,23 @@
+*{
+    text-align: left;
+}
+
+
+h1 {
+    margin-bottom: 40px;
+}
+
+.Nama {
+    color: red;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#RPL {
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#Quotes {
+    font-style: italic;
+}
